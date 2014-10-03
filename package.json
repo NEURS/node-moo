@@ -1,0 +1,28 @@
+{
+  "name": "moo",
+  "version": "0.0.1",
+  "description": "Node.js client for Moo.com",
+  "main": "lib/moo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NEURS/node-moo.git"
+  },
+  "keywords": [
+    "moo",
+    "print",
+    "moo.com"
+  ],
+  "author": "Kevin J. Martin (https://neurs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NEURS/node-moo/issues"
+  },
+  "homepage": "https://github.com/NEURS/node-moo",
+  "dependencies": {
+    "oauth": "~0.9.12",
+    "restler": "^3.2.2"
+  }
+}
